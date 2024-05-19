@@ -1,34 +1,34 @@
-# API01 - Demo project for Spring Boot
+# API01 - Projeto de demonstração para Spring Boot
 
-## Overview
-API01 is a demo project built with Spring Boot. It serves as an example of creating a RESTful API using Spring Boot.
+## Visão Geral
+API01 é um projeto de demonstração construído com Spring Boot. Serve como um exemplo de criação de uma API RESTful usando Spring Boot.
 
-## Requirements
+## Requisitos
 - Java 17
 - Maven
 
-## Getting Started
-To run this project locally, follow these steps:
+## Começando
+Para executar este projeto localmente, siga estas etapas:
 
-1. Clone this repository.
-2. Navigate to the project directory.
-3. Run `mvn spring-boot:run` to start the application.
-4. Access the API at `http://localhost:8080`.
+1. Clone este repositório.
+2. Navegue até o diretório do projeto.
+3. Execute `mvn spring-boot:run` para iniciar a aplicação.
+4. Acesse a API em `http://localhost:8080`.
 
-## Dependencies
+## Dependências
 - Spring Boot 3.2.5
   - spring-boot-starter-web
-  - spring-boot-devtools (runtime, optional)
+  - spring-boot-devtools (runtime, opcional)
   - spring-boot-starter-test (test)
 
-## Building from Source
-You can also build the project from source. Simply run `mvn clean package` in the project directory. The packaged JAR file will be located in the `target` directory.
+## Construção a partir do Código Fonte
+Você também pode construir o projeto a partir do código fonte. Basta executar `mvn clean package` no diretório do projeto. O arquivo JAR empacotado estará localizado no diretório `target`.
 
-## Testing
-Tests can be run using the command `mvn test`.
+## Testes
+Os testes podem ser executados usando o comando `mvn test`.
 
-## Contributing
-Feel free to contribute to this project by opening issues or pull requests.
+## Contribuição
+Sinta-se à vontade para contribuir com este projeto abrindo problemas ou pull requests.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## Licença
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
