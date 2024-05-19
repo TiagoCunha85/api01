@@ -1,4 +1,4 @@
-# API01 - Projeto de demonstração para Spring Boot
+# API01 - Projeto de Demonstração de API usando Spring Boot
 
 ## Visão Geral
 API01 é um projeto de demonstração construído com Spring Boot. Serve como um exemplo de criação de uma API RESTful usando Spring Boot.
